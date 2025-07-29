@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srikar Guntaka</h1>
-<h3 align="center">A passionate full stack developer studying CS at Texas A&M University</h3>
+<h3 align="center">A passionate full stack developer studying Computer Science at Texas A&M University</h3>
 
 - 📫 How to reach me **Srikar05Guntaka@gmail.com**
 
