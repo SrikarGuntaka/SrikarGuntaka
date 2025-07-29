@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Srikar Guntaka</h1>
+<h1 align="center">Hey, I'm Srikar Guntaka</h1>
 <h3 align="center">I'm a full-stack developer studying Computer Science at Texas A&M University. I actively compete in hackathons where I get to build and learn with a team in a fast-paced environment. My passion lies in creating impactful end-user applications.</h3>
 
-- 📫 How to reach me **Srikar05Guntaka@gmail.com**
+- Contact me at **Srikar05Guntaka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
