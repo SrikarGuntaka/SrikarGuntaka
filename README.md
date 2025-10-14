@@ -41,6 +41,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
   </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
   </a>
@@ -49,9 +52,6 @@
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50" />
@@ -65,14 +65,14 @@
 
 <h3 align="left">DevOps</h3>
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="50" height="50" />
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" />
   </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="50" height="50" />
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" />
