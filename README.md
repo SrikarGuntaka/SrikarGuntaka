@@ -7,7 +7,7 @@
 </h3>
 
 <p align="left">
-  Contact me at <b>Srikar05Guntaka@gmail.com</b>
+  Contact me at <a href="mailto:Srikar05Guntaka@gmail.com"><b>Srikar05Guntaka@gmail.com</b></a>
 </p>
 
 ---
